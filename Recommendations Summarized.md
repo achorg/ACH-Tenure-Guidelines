@@ -1,6 +1,6 @@
-Recommendations for Assessment of Digital Scholarship in Tenure and Promotion
+# Recommendations for Assessment of Digital Scholarship in Tenure and Promotion
 
-General
+## General
 	Scholarship should be considered for its original contribution to the discipline
 	Digital platforms and tools should be reviewed on the basis of their originality 
 and use value
