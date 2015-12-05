@@ -142,13 +142,18 @@ At hiring, the expectations for productivity, responsibilities for departmental 
 * Explain changes in peer review—“post-publication” vs. “pre-publication”
 * Address issues of gatekeeping and new media (blog posts, tweets)
 
-7) University of Nebraska, Lincoln 
-Digital specificity:
+## 7) University of Nebraska, Lincoln 
+
+### Digital specificity:
+
 * Technical component lacking in traditional scholarship
-Candidate responsibility:
+
+### Candidate responsibility:
+
 * How does the digital format contribute to the uniqueness and originality of the scholarship
 
-Assessment criteria:
+### Assessment criteria:
+
 * Peer review of sites or tools
 * Collaborations with related projects at other institutions
 * Links from other sites to the scholar’s research
@@ -161,45 +166,43 @@ Assessment criteria:
 * Pedagogical application
 * Conference presentations
 * Print publications from the project
-* 
-* 
-8) Nines Institute on Evaluating Digital Scholarship
 
-Assessment:
+## 8) Nines Institute on Evaluating Digital Scholarship
+
+### Assessment:
+
 * In the original medium and form/format in which scholarship was created
 * Recognize the collaborative nature of digital projects
 * Get each component of the projects reviewed by relevant experts
-Considerations:
-A. Organization of knowledge
-* What community is concerned with this scholarship.
-* What is the content – what decisions about inclusion/exclusion and how are these rhetorical choices?
-* Have relevant standards for digitization been followed and documented?
-* How do the elements/components interact (essays, commentaries etc.)
-* Is the data structure solid
-* Does the interface communicate effectively
-B. Dissemination
-* Is the project able to reach targeted audiences
-Is the project linked to other projects
-Where is the project hosted
-C. Evaluation internal to the project
-* Have user experiences been tested?
-* Has the project been peer reviewed?
-* Have papers been published on the project?
-D. Sustainability
-* Long term development plans?
-* Potential for evolving or changing over time? 
 
-Other Refs:
+### Considerations:
 
-Bethany Nowviskie, The Elaboration of Collaborative Digital Scholarship
-* Document the process of co-creation
-* Balance individual agency with inclusive statements about contributions of others
-* Clarify roles explicitly in scholarly collaborations 
-* Recognize contributions
+* Organization of knowledge
+  * What community is concerned with this scholarship.
+  * What is the content – what decisions about inclusion/exclusion and how are these rhetorical choices?
+  * Have relevant standards for digitization been followed and documented?
+  * How do the elements/components interact (essays, commentaries etc.)
+  * Is the data structure solid
+  * Does the interface communicate effectively
+* Dissemination
+  * Is the project able to reach targeted audiences
+  * Is the project linked to other projects
+  * Where is the project hosted
+* Evaluation internal to the project
+  * Have user experiences been tested?
+  * Has the project been peer reviewed?
+  * Have papers been published on the project?
+* Sustainability
+  * Long term development plans?
+  * Potential for evolving or changing over time? 
 
-Lynn C. Hattendorf Westney, (2000) "A trivial pursuit? Information technology and the tenure track", Campus-Wide Information Systems, Vol. 17 Iss: 4, pp.113 - 119
-http://www.emeraldinsight.com/doi/abs/10.1108/10650740010350684?journalCode=cwis
+## Other Refs:
 
-Teresa Neely, The Impact of Electronic Publications on Promotion and Tenure Decisions, Leading Ideas, October 1999
-http://old.arl.org/bm~doc/li10.pdf
+* Bethany Nowviskie, The Elaboration of Collaborative Digital Scholarship
+  * Document the process of co-creation
+  * Balance individual agency with inclusive statements about contributions of others
+  * Clarify roles explicitly in scholarly collaborations 
+  * Recognize contributions
+* Lynn C. Hattendorf Westney, (2000) "A trivial pursuit? Information technology and the tenure track", Campus-Wide Information Systems, Vol. 17 Iss: 4, pp.113 - 119 http://www.emeraldinsight.com/doi/abs/10.1108/10650740010350684?journalCode=cwis
+* Teresa Neely, The Impact of Electronic Publications on Promotion and Tenure Decisions, Leading Ideas, October 1999 http://old.arl.org/bm~doc/li10.pdf
 
